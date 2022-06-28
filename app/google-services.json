@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118435928251",
+    "project_id": "mapwithmarks-a9105",
+    "storage_bucket": "mapwithmarks-a9105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118435928251:android:6ffb844d7c8c622d2c319e",
+        "android_client_info": {
+          "package_name": "com.example.mapwithmarks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118435928251-66t0bbkgla7e8c8pqsradbnk0964b7mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAW8lTCZVKSUulenwMXfx_aZP6b7hD8iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118435928251-66t0bbkgla7e8c8pqsradbnk0964b7mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
