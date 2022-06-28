@@ -11,10 +11,10 @@ data class MarksEntity(
     @PrimaryKey(autoGenerate = true)
     @ColumnInfo(name = "id")
     var id: Long,
-    @ColumnInfo(name = "long")
-    var long: Double,
+    @ColumnInfo(name = "lon")
+    var lon: Double,
     @ColumnInfo(name = "lat")
-    var lar: Double,
+    var lat: Double,
     @ColumnInfo(name = "title")
     var title: String
 )
